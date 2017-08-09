@@ -1,0 +1,9 @@
+############################
+Boyuan Zhang
+boyuanz@andrew.cmu.edu
+############################
+
+Timesheet for KarateGo:
+4/10 - 4/18: term project orignial design and technology review. A technology demo was created in this step. 10 hours
+4/18 - 4/26: major function of KarateGo was implemented, which includes basic UI design, building gesture recognition model, etc. 40 hours
+4/26 - 5/04: polishing of UI, solving text display bugs and adding in more features. 40 hours
