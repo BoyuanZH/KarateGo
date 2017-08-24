@@ -1,4 +1,3 @@
-##########################
 ##KarateGo
 >Author: BoyuanZH
 >
@@ -7,7 +6,7 @@
 >The program takes advantage of the the body frame and color frame generated through kinect sensor to get the user's skeleton information. The skeleton information can be further processed by the program. Machine learning is used here to do gesture recognition, that is to determine the technique the user is doing. To control the system, the program utilizes built-in hand-gesture recognizing function of pykinect2 module. Pygame is used here to support the game frame and game logic.
 
 
-###Installation Guide###
+###Installation Guide
 
 >All project source files needed to run the KarateGo can be downloaded here. Design_Document folder is included for illustrating design logic.
 
